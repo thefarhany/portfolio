@@ -1,0 +1,23 @@
+# Python bytecode (Sampah eksekusi)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Biar ga berat pas di-push)
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables (RAHASIA NEGARA, JANGAN DI-PUSH!)
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS related
+.DS_Store
+Thumbs.db
